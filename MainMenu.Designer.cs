@@ -94,6 +94,7 @@
             buttonimgEasy.BackColor = Color.Transparent;
             buttonimgEasy.BackgroundImage = (Image)resources.GetObject("buttonimgEasy.BackgroundImage");
             buttonimgEasy.BackgroundImageLayout = ImageLayout.Stretch;
+            buttonimgEasy.Cursor = Cursors.Hand;
             buttonimgEasy.Location = new Point(66, 304);
             buttonimgEasy.Name = "buttonimgEasy";
             buttonimgEasy.Size = new Size(257, 141);
@@ -105,6 +106,7 @@
             buttonimgMed.BackColor = Color.Transparent;
             buttonimgMed.BackgroundImage = (Image)resources.GetObject("buttonimgMed.BackgroundImage");
             buttonimgMed.BackgroundImageLayout = ImageLayout.Stretch;
+            buttonimgMed.Cursor = Cursors.Hand;
             buttonimgMed.Location = new Point(472, 304);
             buttonimgMed.Name = "buttonimgMed";
             buttonimgMed.Size = new Size(257, 141);
@@ -116,6 +118,7 @@
             buttonimgHard.BackColor = Color.Transparent;
             buttonimgHard.BackgroundImage = (Image)resources.GetObject("buttonimgHard.BackgroundImage");
             buttonimgHard.BackgroundImageLayout = ImageLayout.Stretch;
+            buttonimgHard.Cursor = Cursors.Hand;
             buttonimgHard.Location = new Point(66, 485);
             buttonimgHard.Name = "buttonimgHard";
             buttonimgHard.Size = new Size(257, 141);
@@ -127,6 +130,7 @@
             buttonimgVeryHard.BackColor = Color.Transparent;
             buttonimgVeryHard.BackgroundImage = (Image)resources.GetObject("buttonimgVeryHard.BackgroundImage");
             buttonimgVeryHard.BackgroundImageLayout = ImageLayout.Stretch;
+            buttonimgVeryHard.Cursor = Cursors.Hand;
             buttonimgVeryHard.Location = new Point(472, 485);
             buttonimgVeryHard.Name = "buttonimgVeryHard";
             buttonimgVeryHard.Size = new Size(257, 141);
@@ -267,13 +271,13 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Arial Rounded MT Bold", 18F, FontStyle.Underline, GraphicsUnit.Point);
-            label3.Location = new Point(281, 236);
+            label3.Font = new Font("Arial Rounded MT Bold", 16F, FontStyle.Regular, GraphicsUnit.Point);
+            label3.Location = new Point(283, 238);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(227, 50);
+            label3.Size = new Size(254, 45);
             label3.TabIndex = 23;
-            label3.Text = "Pick a level:";
+            label3.Text = "Choose a level:";
             label3.UseCompatibleTextRendering = true;
             // 
             // buttonFinish
@@ -281,6 +285,7 @@
             buttonFinish.BackColor = Color.Transparent;
             buttonFinish.BackgroundImage = (Image)resources.GetObject("buttonFinish.BackgroundImage");
             buttonFinish.BackgroundImageLayout = ImageLayout.Stretch;
+            buttonFinish.Cursor = Cursors.Hand;
             buttonFinish.Location = new Point(170, 679);
             buttonFinish.Name = "buttonFinish";
             buttonFinish.Size = new Size(451, 87);
