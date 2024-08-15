@@ -106,6 +106,7 @@
             menuButton.BackColor = Color.Transparent;
             menuButton.BackgroundImage = (Image)resources.GetObject("menuButton.BackgroundImage");
             menuButton.BackgroundImageLayout = ImageLayout.Stretch;
+            menuButton.Cursor = Cursors.Hand;
             menuButton.Location = new Point(348, 617);
             menuButton.Name = "menuButton";
             menuButton.Size = new Size(251, 132);

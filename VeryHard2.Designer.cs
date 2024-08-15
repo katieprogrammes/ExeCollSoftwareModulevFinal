@@ -79,6 +79,7 @@
             pic1.BackColor = Color.Transparent;
             pic1.BackgroundImage = (Image)resources.GetObject("pic1.BackgroundImage");
             pic1.BackgroundImageLayout = ImageLayout.Stretch;
+            pic1.Cursor = Cursors.Hand;
             pic1.Location = new Point(74, 253);
             pic1.Margin = new Padding(4, 5, 4, 5);
             pic1.Name = "pic1";
@@ -91,6 +92,7 @@
             pic2.BackColor = Color.Transparent;
             pic2.BackgroundImage = (Image)resources.GetObject("pic2.BackgroundImage");
             pic2.BackgroundImageLayout = ImageLayout.Stretch;
+            pic2.Cursor = Cursors.Hand;
             pic2.Location = new Point(303, 253);
             pic2.Margin = new Padding(4, 5, 4, 5);
             pic2.Name = "pic2";
@@ -103,6 +105,7 @@
             pic3.BackColor = Color.Transparent;
             pic3.BackgroundImage = (Image)resources.GetObject("pic3.BackgroundImage");
             pic3.BackgroundImageLayout = ImageLayout.Stretch;
+            pic3.Cursor = Cursors.Hand;
             pic3.Location = new Point(531, 253);
             pic3.Margin = new Padding(4, 5, 4, 5);
             pic3.Name = "pic3";
@@ -115,6 +118,7 @@
             pic4.BackColor = Color.Transparent;
             pic4.BackgroundImage = (Image)resources.GetObject("pic4.BackgroundImage");
             pic4.BackgroundImageLayout = ImageLayout.Stretch;
+            pic4.Cursor = Cursors.Hand;
             pic4.Location = new Point(760, 253);
             pic4.Margin = new Padding(4, 5, 4, 5);
             pic4.Name = "pic4";
@@ -127,6 +131,7 @@
             pic5.BackColor = Color.Transparent;
             pic5.BackgroundImage = (Image)resources.GetObject("pic5.BackgroundImage");
             pic5.BackgroundImageLayout = ImageLayout.Stretch;
+            pic5.Cursor = Cursors.Hand;
             pic5.Location = new Point(74, 515);
             pic5.Margin = new Padding(4, 5, 4, 5);
             pic5.Name = "pic5";
@@ -139,6 +144,7 @@
             pic9.BackColor = Color.Transparent;
             pic9.BackgroundImage = (Image)resources.GetObject("pic9.BackgroundImage");
             pic9.BackgroundImageLayout = ImageLayout.Stretch;
+            pic9.Cursor = Cursors.Hand;
             pic9.Location = new Point(74, 777);
             pic9.Margin = new Padding(4, 5, 4, 5);
             pic9.Name = "pic9";
@@ -151,6 +157,7 @@
             pic13.BackColor = Color.Transparent;
             pic13.BackgroundImage = (Image)resources.GetObject("pic13.BackgroundImage");
             pic13.BackgroundImageLayout = ImageLayout.Stretch;
+            pic13.Cursor = Cursors.Hand;
             pic13.Location = new Point(74, 1038);
             pic13.Margin = new Padding(4, 5, 4, 5);
             pic13.Name = "pic13";
@@ -163,6 +170,7 @@
             pic6.BackColor = Color.Transparent;
             pic6.BackgroundImage = (Image)resources.GetObject("pic6.BackgroundImage");
             pic6.BackgroundImageLayout = ImageLayout.Stretch;
+            pic6.Cursor = Cursors.Hand;
             pic6.Location = new Point(303, 515);
             pic6.Margin = new Padding(4, 5, 4, 5);
             pic6.Name = "pic6";
@@ -175,6 +183,7 @@
             pic7.BackColor = Color.Transparent;
             pic7.BackgroundImage = (Image)resources.GetObject("pic7.BackgroundImage");
             pic7.BackgroundImageLayout = ImageLayout.Stretch;
+            pic7.Cursor = Cursors.Hand;
             pic7.Location = new Point(531, 515);
             pic7.Margin = new Padding(4, 5, 4, 5);
             pic7.Name = "pic7";
@@ -187,6 +196,7 @@
             pic8.BackColor = Color.Transparent;
             pic8.BackgroundImage = (Image)resources.GetObject("pic8.BackgroundImage");
             pic8.BackgroundImageLayout = ImageLayout.Stretch;
+            pic8.Cursor = Cursors.Hand;
             pic8.Location = new Point(760, 515);
             pic8.Margin = new Padding(4, 5, 4, 5);
             pic8.Name = "pic8";
@@ -199,6 +209,7 @@
             pic10.BackColor = Color.Transparent;
             pic10.BackgroundImage = (Image)resources.GetObject("pic10.BackgroundImage");
             pic10.BackgroundImageLayout = ImageLayout.Stretch;
+            pic10.Cursor = Cursors.Hand;
             pic10.Location = new Point(303, 777);
             pic10.Margin = new Padding(4, 5, 4, 5);
             pic10.Name = "pic10";
@@ -211,6 +222,7 @@
             pic11.BackColor = Color.Transparent;
             pic11.BackgroundImage = (Image)resources.GetObject("pic11.BackgroundImage");
             pic11.BackgroundImageLayout = ImageLayout.Stretch;
+            pic11.Cursor = Cursors.Hand;
             pic11.Location = new Point(531, 777);
             pic11.Margin = new Padding(4, 5, 4, 5);
             pic11.Name = "pic11";
@@ -223,6 +235,7 @@
             pic12.BackColor = Color.Transparent;
             pic12.BackgroundImage = (Image)resources.GetObject("pic12.BackgroundImage");
             pic12.BackgroundImageLayout = ImageLayout.Stretch;
+            pic12.Cursor = Cursors.Hand;
             pic12.Location = new Point(760, 777);
             pic12.Margin = new Padding(4, 5, 4, 5);
             pic12.Name = "pic12";
@@ -235,6 +248,7 @@
             pic14.BackColor = Color.Transparent;
             pic14.BackgroundImage = (Image)resources.GetObject("pic14.BackgroundImage");
             pic14.BackgroundImageLayout = ImageLayout.Stretch;
+            pic14.Cursor = Cursors.Hand;
             pic14.Location = new Point(303, 1038);
             pic14.Margin = new Padding(4, 5, 4, 5);
             pic14.Name = "pic14";
@@ -247,6 +261,7 @@
             pic15.BackColor = Color.Transparent;
             pic15.BackgroundImage = (Image)resources.GetObject("pic15.BackgroundImage");
             pic15.BackgroundImageLayout = ImageLayout.Stretch;
+            pic15.Cursor = Cursors.Hand;
             pic15.Location = new Point(531, 1038);
             pic15.Margin = new Padding(4, 5, 4, 5);
             pic15.Name = "pic15";
@@ -259,6 +274,7 @@
             pic16.BackColor = Color.Transparent;
             pic16.BackgroundImage = (Image)resources.GetObject("pic16.BackgroundImage");
             pic16.BackgroundImageLayout = ImageLayout.Stretch;
+            pic16.Cursor = Cursors.Hand;
             pic16.Location = new Point(760, 1038);
             pic16.Margin = new Padding(4, 5, 4, 5);
             pic16.Name = "pic16";

@@ -205,6 +205,7 @@
             Controls.Add(pic1);
             Controls.Add(label2);
             Controls.Add(label1);
+            Cursor = Cursors.Hand;
             Name = "Hard3";
             Text = "Hard3";
             ResumeLayout(false);

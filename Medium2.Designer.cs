@@ -163,6 +163,7 @@
             Controls.Add(pic1);
             Controls.Add(label2);
             Controls.Add(label1);
+            Cursor = Cursors.Hand;
             Name = "Medium2";
             Text = "Medium2";
             ResumeLayout(false);
