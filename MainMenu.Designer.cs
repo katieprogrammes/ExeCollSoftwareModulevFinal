@@ -143,12 +143,12 @@
             label2.BackColor = Color.Transparent;
             label2.FlatStyle = FlatStyle.Flat;
             label2.Font = new Font("Cooper Black", 22F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.ForeColor = Color.Indigo;
-            label2.Location = new Point(12, 153);
+            label2.ForeColor = Color.DarkViolet;
+            label2.Location = new Point(0, 162);
             label2.Name = "label2";
-            label2.Size = new Size(769, 50);
+            label2.Size = new Size(783, 50);
             label2.TabIndex = 12;
-            label2.Text = "Click the picture that is different";
+            label2.Text = "Click the picture that is different!";
             // 
             // label4
             // 
@@ -260,8 +260,8 @@
             label5.BackColor = Color.Transparent;
             label5.FlatStyle = FlatStyle.Flat;
             label5.Font = new Font("Cooper Black", 22F, FontStyle.Regular, GraphicsUnit.Point);
-            label5.ForeColor = Color.Indigo;
-            label5.Location = new Point(244, 94);
+            label5.ForeColor = Color.DarkViolet;
+            label5.Location = new Point(244, 99);
             label5.Name = "label5";
             label5.Size = new Size(306, 50);
             label5.TabIndex = 22;
@@ -272,7 +272,8 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Arial Rounded MT Bold", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.Location = new Point(283, 238);
+            label3.ForeColor = Color.Navy;
+            label3.Location = new Point(275, 247);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
             label3.Size = new Size(254, 45);
